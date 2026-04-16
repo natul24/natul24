@@ -1,8 +1,10 @@
 ## Hi there 👋, I'm Natalia Urrea 
 
-<em>
+> <em>
     Transforming data into strategic impact
   </em>
+
+---
 
 #### Tools
 
