@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Natalia Urrea 
+
+
+## Tools Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <!--
 **natul24/natul24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
