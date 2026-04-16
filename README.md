@@ -1,5 +1,9 @@
 ## Hi there 👋, I'm Natalia Urrea 
 
+<em>
+    Transforming data into strategic impact
+  </em>
+
 #### Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
